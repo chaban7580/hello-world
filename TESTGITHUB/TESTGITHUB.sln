@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{81E7B6BE-03E7-8025-66F9-905582F8DEA0}") = "TESTGITHUB", "Assembly-CSharp.csproj", "{183E272A-05C8-8ACF-6FE1-1D242DC0FFFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{183E272A-05C8-8ACF-6FE1-1D242DC0FFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183E272A-05C8-8ACF-6FE1-1D242DC0FFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183E272A-05C8-8ACF-6FE1-1D242DC0FFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183E272A-05C8-8ACF-6FE1-1D242DC0FFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
